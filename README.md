@@ -14,7 +14,7 @@ My first repository
 
 ## Tools Used
 
-## Files USed
+## Files Used
 
 ## How to Run Program
 
